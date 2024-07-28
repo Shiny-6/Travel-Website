@@ -1,5 +1,5 @@
 # Travel-website
-# Explore India
+# Explore India is a travel website created using HTML,CSS,Javascript,Bootstrap.
 
 ## Description
 **Explore India** is a comprehensive travel website providing detailed information about various travel destinations across India. The site includes an interactive image carousel, destination gallery, user reviews, and booking functionalities.
