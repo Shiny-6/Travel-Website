@@ -15,7 +15,7 @@
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd explore-india
+    cd Travel-website
     ```
 3. **Open the Application**:
    - Open `index.html` in your preferred web browser.
